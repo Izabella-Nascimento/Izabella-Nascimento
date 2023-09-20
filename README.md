@@ -1,16 +1,20 @@
-## Olá, terráqueos! Sejam bem-vindos! Me chamo Izabella Nascimento:)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+terráqueos!;Sejam+bem-vindos!;Me+chamo+Izabella+Nascimento+:%29)](https://git.io/typing-svg)
 
+<p> 
+- 🚀 Estudando Javascript, CSS e HTML. </br>
+- 🍄 Pronomes: Ela/dela. </br>
+- 🌟 Aprendiz no programa 1000devs, promovido pela Johnson & Johnson Medtech, Hospital Israelita Albert Einstein e mesttra. </br>
+</p>
 
-- 🚀 Estudando Javascript, CSS e HTML. 
-- 🍄 Pronomes: Ela/dela.
-- 🌟 Aprendiz no programa 1000devs, promovido pela Johnson & Johnson Medtech, Hospital Israelita Albert Einstein e mesttra.
+</br>
+</br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabella-nascimento&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabella-nascimento&layout=compact&langs_count-16&theme=omni"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=izabella-nascimento&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabella-nascimento&layout=compact&langs_count-16&theme=omni"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
