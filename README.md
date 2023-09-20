@@ -3,7 +3,7 @@
 
 - 🚀 Estudando Javascript, CSS e HTML. 
 - 🍄 Pronomes: Ela/dela.
-- 🌟 Curiosidade: Adoro escrever, tocar e cantar minhas próprias músicas.
+- 🌟 Aprendiz no programa 1000devs, promovido pela Johnson & Johnson Medtech, Hospital Israelita Albert Einstein e mesttra.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabella-nascimento&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
