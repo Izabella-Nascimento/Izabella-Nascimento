@@ -24,7 +24,7 @@
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" /> 
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   <img align="center" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
-  <img align="right" height="150"  src="https://cdn.discordapp.com/attachments/1131996542291685559/1153954225861185586/picasion.com_45a28f8b82c8652ed07aa485876856df.gif">
+  <img align="right" height="170"  src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif">
 
   ##
 <div>
