@@ -3,7 +3,6 @@
 <p> 
 - 🚀 Estudando Javascript, CSS e HTML. </br>
 - 🍄 Pronomes: Ela/dela. </br>
-- 🌟 Aprendiz no programa 1000devs, promovido pela Johnson & Johnson Medtech, Hospital Israelita Albert Einstein e mesttra. </br>
 </p>
 
 </br>
